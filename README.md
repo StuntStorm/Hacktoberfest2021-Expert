@@ -1,6 +1,6 @@
-<img align="center" height="200" src="https://github.com/Ishaan28malik/Hacktoberfest-2020/blob/master/Assets/Selection_026.png"/>
+<img align="center" height="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--6YdpvNlW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z72w7nfxhdw5mt1blnzm.png"/>
 
-# Hacktoberfest 2020 - Expert
+# Hacktoberfest 2021 - Expert
 
 This is a intermediate-level project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't
@@ -16,7 +16,7 @@ P.S. Star and share this repository, if you had fun!
 ## Getting Started
 
 - Create a [Github](https://github.com/) account for free [here](https://github.com/).
-- Register at [Hactoberfest-2020](https://hacktoberfest.digitalocean.com/) using your github id.
+- Register at [Hactoberfest-2021](https://hacktoberfest.digitalocean.com/) using your github id.
 - Star this repo and share it with your friends.
 - Add your programs/code to respective folders of each programming language.
 
@@ -29,14 +29,14 @@ P.S. Star and share this repository, if you had fun!
 - Who can contribute?
   - Anyone with a github account and who is signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :).
 
-- How many pull request (PR) must be made, if I can get an awesome shirt from Hacktoberfest 2020?
+- How many pull request (PR) must be made, if I can get an awesome shirt from Hacktoberfest 2021?
   - 5
 
-- How do I track my progress to get an awesome shirt from Hacktoberfest 2020?
+- How do I track my progress to get an awesome shirt from Hacktoberfest 2021?
   - go to : [https://hacktoberfest.digitalocean.com/stats/](https://hacktoberfest.digitalocean.com/stats/)
 
-- What is the duration of Hacktoberfest 2020?
-  - It is from 1st october to 31st october 2020.
+- What is the duration of Hacktoberfest 2021?
+  - It is from 1st october to 31st october 2021.
 
 - What is the event for?
   - For the open source community engagement.
